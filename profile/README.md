@@ -1,4 +1,4 @@
-# ![MWAY - We design the digital future]()
+# ![MWAY - We shape the digital future](https://github.com/user-attachments/assets/6826f030-b66a-4b0e-bc96-72d1b52b4834)
 
 As digital pioneers, we shape the mobile future of our customers. Our drive: To always offer the most suitable state-of-the-art technology for companies and educational institutions. Software that is modern and intuitive and partnership as our guiding principle.
 
