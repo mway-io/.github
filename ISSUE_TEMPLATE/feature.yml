@@ -1,0 +1,30 @@
+name: Feature
+description: "Propose a new feature"
+title: "Feature: "
+labels: [feature]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for taking the time to fill out this feature request form!
+  - type: textarea
+    id: feature-description
+    validations:
+      required: true
+    attributes:
+      label: "Feature description"
+      description: "A clear and concise description of the feature you want to be implemented."
+      placeholder: "I want to be able to ... / You should add ..."
+  - type: textarea
+    id: pitch
+    validations:
+      required: true
+    attributes:
+      label: "Pitch"
+      description: "Please explain why this feature should be implemented and how it would be used. Add examples, if applicable."
+      placeholder: "For my use case, this feature would be useful because ..."
+  - type: markdown
+    attributes:
+      value: |
+        Before submitting, please check if this feature hasn't been requested before.
+        For feature requests related to our commercial products, please refer to the process outlined in our [SUPPORT.md](SUPPORT.md).

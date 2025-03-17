@@ -1,0 +1,52 @@
+name: "Bug Report"
+description: "Report a bug"
+title: "Bug: "
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for taking the time to fill out this bug report form!
+  - type: textarea
+    id: steps-to-reproduce
+    validations:
+      required: true
+    attributes:
+      label: "Reproduction steps"
+      description: "How do you trigger this bug? Please describe it step by step."
+      placeholder: "The bug occurs when I ..."
+  - type: textarea
+    id: expected-behavior
+    validations:
+      required: true
+    attributes:
+      label: "Expected behavior"
+      description: "What did you expect to happen if the bug wasn't present?"
+      placeholder: "I expect the program to ..."
+  - type: textarea
+    id: actual-behavior
+    validations:
+      required: true
+    attributes:
+      label: "Actual Behavior"
+      description: "What actually happened? Describe the buggy behaviour. Add screenshots, if applicable."
+      placeholder: "The program ..."
+  - type: textarea
+    id: logs
+    attributes:
+      label: "Logs"
+      description: "Paste any relevant logs here."
+    validations:
+      required: false
+  - type: textarea
+    id: environment
+    attributes:
+      label: "Environment"
+      description: "Please state your operating system and its version, and the version of our software you are using."
+    validations:
+      required: false
+  - type: markdown
+    attributes:
+      value: |
+        Before submitting, please check if this bug/issue hasn't been reported before.
+        For bug reports related to our main Relution product, please refer to the process outlined in our [SUPPORT.md](SUPPORT.md).
