@@ -2,11 +2,17 @@ name: "Bug Report"
 description: "Report a bug"
 title: "Bug: "
 labels: [bug]
+type: "bug"
 body:
   - type: markdown
     attributes:
       value: |
         Thank you for taking the time to fill out this bug report form!
+  - type: markdown
+    attributes:
+      value: |
+        Before submitting, please check if this bug/issue hasn't been reported before.
+        For bug reports related to our main Relution product, please refer to the process outlined in our [SUPPORT.md](https://github.com/mway-io/.github/blob/main/SUPPORT.md).        
   - type: textarea
     id: steps-to-reproduce
     validations:
@@ -45,8 +51,3 @@ body:
       description: "Please state your operating system and its version, and the version of our software you are using."
     validations:
       required: false
-  - type: markdown
-    attributes:
-      value: |
-        Before submitting, please check if this bug/issue hasn't been reported before.
-        For bug reports related to our main Relution product, please refer to the process outlined in our [SUPPORT.md](https://github.com/mway-io/.github/blob/main/SUPPORT.md).
