@@ -8,7 +8,7 @@ Please contact us if you discover a security-related issue such as
 
 ## Security Contact
 
-Please contact us at security@mway.io
+Please contact us at [security@mway.io](mailto:security@mway.io)
 
 We maintain a signed `security.txt` file: https://mway.io/.well-known/security.txt
 

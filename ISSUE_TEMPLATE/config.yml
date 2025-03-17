@@ -3,6 +3,3 @@ contact_links:
   - name: 🌐 Website
     url: https://mway.io
     about: Visit our website for more information
-  - name: 🔒 Security Contact
-    url: mailto:security@mway.io
-    about: Report security vulnerabilities

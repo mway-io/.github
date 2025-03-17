@@ -49,4 +49,4 @@ body:
     attributes:
       value: |
         Before submitting, please check if this bug/issue hasn't been reported before.
-        For bug reports related to our main Relution product, please refer to the process outlined in our [SUPPORT.md](SUPPORT.md).
+        For bug reports related to our main Relution product, please refer to the process outlined in our [SUPPORT.md](https://github.com/mway-io/.github/blob/main/SUPPORT.md).

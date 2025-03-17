@@ -4,7 +4,7 @@ Thank you for your interest in contributing to MWAY's open source projects! This
 
 ## About MWAY
 
-At MWAY, we design and realize technical and digital innovations in the field of mobile apps, online portals and supports customers in digitalization. On our GitHub, we maintain open source projects that we use to develop our own products. For more information, please visit [mway.io](https://mway.io).
+At MWAY, we design and realize technical and digital innovations in the field of mobile apps, online portals and supports customers in digitalization. On our GitHub, we maintain open source projects that we use to develop our own products. For more information, please visit **[mway.io](https://mway.io)**.
 
 ## Code of Conduct
 
@@ -19,11 +19,11 @@ If you find a bug or have a suggestion for one of our open-source projects:
 3. Provide a clear description of the issue with steps to reproduce
 4. Include information about your environment (OS, version, device, etc.)
 
-For issues related to our commercial products, please refer to the process outlined in our [SUPPORT.md](SUPPORT.md).
+For issues related to our commercial products, please refer to the process outlined in our **[SUPPORT.md](https://github.com/mway-io/.github/blob/main/SUPPORT.md)**.
 
 ### Security Issues
 
-Please do not report security vulnerabilities through public GitHub issues. Refer to our [SECURITY.md](SECURITY.md) for instructions on how to responsibly disclose security concerns.
+Please do not report security vulnerabilities through public GitHub issues. Refer to our **[SECURITY.md](https://github.com/mway-io/.github/blob/main/SECURITY.md)** for instructions on how to responsibly disclose security concerns.
 
 ### Feature Requests
 
